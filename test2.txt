@@ -1,6 +1,4 @@
 # gittest
 test
-aa
+
 bb
-cc
-dd

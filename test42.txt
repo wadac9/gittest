@@ -1,5 +1,3 @@
 test42
 
 amend
-
-push
